@@ -1,6 +1,0 @@
-D:\Projects\BlueBird\Workspace\bluebird\SwitchLib\bin\Debug\SwitchLib.dll
-D:\Projects\BlueBird\Workspace\bluebird\SwitchLib\bin\Debug\SwitchLib.pdb
-D:\Projects\BlueBird\Workspace\bluebird\SwitchLib\obj\Debug\SwitchLib.csprojAssemblyReference.cache
-D:\Projects\BlueBird\Workspace\bluebird\SwitchLib\obj\Debug\SwitchLib.csproj.CoreCompileInputs.cache
-D:\Projects\BlueBird\Workspace\bluebird\SwitchLib\obj\Debug\SwitchLib.dll
-D:\Projects\BlueBird\Workspace\bluebird\SwitchLib\obj\Debug\SwitchLib.pdb
