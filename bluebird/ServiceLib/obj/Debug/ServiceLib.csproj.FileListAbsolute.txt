@@ -1,0 +1,6 @@
+D:\Projects\BlueBird\Workspace\bluebird\ServiceLib\bin\Debug\ServiceLib.dll
+D:\Projects\BlueBird\Workspace\bluebird\ServiceLib\bin\Debug\ServiceLib.pdb
+D:\Projects\BlueBird\Workspace\bluebird\ServiceLib\obj\Debug\ServiceLib.csprojAssemblyReference.cache
+D:\Projects\BlueBird\Workspace\bluebird\ServiceLib\obj\Debug\ServiceLib.csproj.CoreCompileInputs.cache
+D:\Projects\BlueBird\Workspace\bluebird\ServiceLib\obj\Debug\ServiceLib.dll
+D:\Projects\BlueBird\Workspace\bluebird\ServiceLib\obj\Debug\ServiceLib.pdb
